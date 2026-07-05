@@ -1486,13 +1486,21 @@
   "city": "葉山町",
   "port": "葉山鐙摺",
   "name": "たいぞう丸",
-  "url": "",
-  "type": "不明",
-  "catches": [],
+  "url": "https://taizoumaru.com/",
+  "type": "乗合",
+  "catches": [
+   {
+    "fish": "アマダイ",
+    "size": "",
+    "count": "",
+    "note": "年間通しアマダイ・マルイカ・キハダ/本ガツオ。冬場は大型アマダイ狙いで定評。数値釣果は未取得",
+    "date": ""
+   }
+  ],
   "prices": [],
-  "status": "未収集",
-  "source": "",
-  "collected_at": "",
+  "status": "一部",
+  "source": "公式サイト",
+  "collected_at": "2026-07-05",
   "error_count": 0
  },
  {
@@ -1501,13 +1509,39 @@
   "city": "逗子市",
   "port": "小坪",
   "name": "太郎丸",
-  "url": "",
-  "type": "不明",
-  "catches": [],
-  "prices": [],
-  "status": "未収集",
-  "source": "",
-  "collected_at": "",
+  "url": "https://kotsubo-taromaru.com/",
+  "type": "乗合",
+  "catches": [
+   {
+    "fish": "キンメダイ",
+    "size": "28〜40cm",
+    "count": "6〜17匹",
+    "note": "",
+    "date": "2026-02-14"
+   },
+   {
+    "fish": "クロムツ",
+    "size": "34〜45cm",
+    "count": "0〜8匹",
+    "note": "",
+    "date": "2026-02-14"
+   }
+  ],
+  "prices": [
+   {
+    "label": "キンメ・ムツ五目船",
+    "yen": 14000,
+    "note": "エサ・氷付。3名以上で出船確定・現金のみ"
+   },
+   {
+    "label": "沖の瀬ウィリー五目船",
+    "yen": 13000,
+    "note": "エサ・氷付"
+   }
+  ],
+  "status": "済",
+  "source": "公式サイト",
+  "collected_at": "2026-07-05",
   "error_count": 0
  },
  {
@@ -1517,12 +1551,33 @@
   "port": "小坪",
   "name": "椿丸",
   "url": "https://www.tsubakimaru.net/",
-  "type": "不明",
-  "catches": [],
-  "prices": [],
-  "status": "未収集",
-  "source": "",
-  "collected_at": "",
+  "type": "乗合",
+  "catches": [
+   {
+    "fish": "アマダイ",
+    "size": "22〜38cm",
+    "count": "",
+    "note": "カイワリ＆アマダイ五目に通年出船。アジ・サバ・イサキ混じり",
+    "date": ""
+   },
+   {
+    "fish": "カイワリ",
+    "size": "",
+    "count": "",
+    "note": "同五目船の主対象",
+    "date": ""
+   }
+  ],
+  "prices": [
+   {
+    "label": "カイワリ＆アマダイ五目",
+    "yen": 11500,
+    "note": "餌・氷・仕掛け付。女性・中学生以下2,000円引"
+   }
+  ],
+  "status": "一部",
+  "source": "公式サイト",
+  "collected_at": "2026-07-05",
   "error_count": 0
  },
  {
@@ -1532,12 +1587,26 @@
   "port": "小坪",
   "name": "洋征丸",
   "url": "http://www.youseimaru.com/",
-  "type": "不明",
-  "catches": [],
-  "prices": [],
-  "status": "未収集",
-  "source": "",
-  "collected_at": "",
+  "type": "乗合",
+  "catches": [
+   {
+    "fish": "アジ",
+    "size": "35〜38cm",
+    "count": "約30匹",
+    "note": "アジ＆マダイ五目（ビシアジ）。ワラサ・イシナギ混じり",
+    "date": ""
+   }
+  ],
+  "prices": [
+   {
+    "label": "アジ＆マダイ五目",
+    "yen": 11000,
+    "note": "7:00出船14:00納竿。女性・中学生以下2,000円引。貸道具1,000円"
+   }
+  ],
+  "status": "済",
+  "source": "公式サイト",
+  "collected_at": "2026-07-05",
   "error_count": 0
  },
  {
@@ -1547,12 +1616,40 @@
   "port": "腰越",
   "name": "池田丸",
   "url": "https://ikedamaru.net/",
-  "type": "不明",
-  "catches": [],
-  "prices": [],
-  "status": "未収集",
-  "source": "",
-  "collected_at": "",
+  "type": "乗合",
+  "catches": [
+   {
+    "fish": "アジ",
+    "size": "25〜40cm",
+    "count": "0〜13匹",
+    "note": "",
+    "date": "2026-07-01"
+   },
+   {
+    "fish": "アマダイ",
+    "size": "27〜40cm",
+    "count": "0〜2匹",
+    "note": "",
+    "date": "2026-07-01"
+   },
+   {
+    "fish": "ハナダイ",
+    "size": "28〜32cm",
+    "count": "0〜2匹",
+    "note": "",
+    "date": "2026-07-01"
+   }
+  ],
+  "prices": [
+   {
+    "label": "貸切（11人まで）",
+    "yen": 85000,
+    "note": "1隻料金。12〜19人96,000円。乗合はヒラメ泳がせ等"
+   }
+  ],
+  "status": "済",
+  "source": "釣割",
+  "collected_at": "2026-07-05",
   "error_count": 0
  },
  {
@@ -1561,13 +1658,27 @@
   "city": "鎌倉市",
   "port": "腰越",
   "name": "孝太郎丸",
-  "url": "",
-  "type": "不明",
-  "catches": [],
-  "prices": [],
-  "status": "未収集",
-  "source": "",
-  "collected_at": "",
+  "url": "https://koutaroumaru.net/",
+  "type": "乗合",
+  "catches": [
+   {
+    "fish": "マダイ",
+    "size": "",
+    "count": "",
+    "note": "オキアミ喰わせマダイで有名。季節でアマダイ・シロギス・カサゴ等。数値釣果は未取得",
+    "date": ""
+   }
+  ],
+  "prices": [
+   {
+    "label": "タイ船",
+    "yen": 11000,
+    "note": ""
+   }
+  ],
+  "status": "一部",
+  "source": "公式サイト",
+  "collected_at": "2026-07-05",
   "error_count": 0
  },
  {
@@ -1576,13 +1687,21 @@
   "city": "藤沢市",
   "port": "片瀬江ノ島",
   "name": "島きち丸",
-  "url": "",
-  "type": "不明",
-  "catches": [],
+  "url": "https://shimakichimaru.com/",
+  "type": "乗合",
+  "catches": [
+   {
+    "fish": "アジ",
+    "size": "",
+    "count": "",
+    "note": "4隻体制。アジ・キス・ライトルアー・ムギイカ/スルメ、8月〜キハダ・カツオ、9月〜カワハギ・アマダイ。数値釣果は未取得",
+    "date": ""
+   }
+  ],
   "prices": [],
-  "status": "未収集",
-  "source": "",
-  "collected_at": "",
+  "status": "一部",
+  "source": "公式サイト",
+  "collected_at": "2026-07-05",
   "error_count": 0
  },
  {
@@ -1592,12 +1711,20 @@
   "port": "片瀬江ノ島",
   "name": "萬司郎丸",
   "url": "",
-  "type": "不明",
-  "catches": [],
+  "type": "乗合",
+  "catches": [
+   {
+    "fish": "アジ",
+    "size": "",
+    "count": "",
+    "note": "アジ・カワハギ・アマダイ・イナダ・カツオ等。ショートキス便あり。数値釣果は未取得",
+    "date": ""
+   }
+  ],
   "prices": [],
-  "status": "未収集",
-  "source": "",
-  "collected_at": "",
+  "status": "一部",
+  "source": "釣りビジョン",
+  "collected_at": "2026-07-05",
   "error_count": 0
  },
  {
@@ -1607,12 +1734,20 @@
   "port": "茅ヶ崎",
   "name": "一俊丸",
   "url": "http://kazutoshimaru.net/",
-  "type": "不明",
-  "catches": [],
+  "type": "乗合",
+  "catches": [
+   {
+    "fish": "キハダ",
+    "size": "",
+    "count": "",
+    "note": "キハダ・ライト五目等で出船中（釣果速報はブログ/Instagram配信）。数値釣果は未取得",
+    "date": ""
+   }
+  ],
   "prices": [],
-  "status": "未収集",
-  "source": "",
-  "collected_at": "",
+  "status": "一部",
+  "source": "公式サイト",
+  "collected_at": "2026-07-05",
   "error_count": 0
  },
  {
@@ -1621,13 +1756,27 @@
   "city": "茅ヶ崎市",
   "port": "茅ヶ崎",
   "name": "ちがさき丸",
-  "url": "",
-  "type": "不明",
-  "catches": [],
-  "prices": [],
-  "status": "未収集",
-  "source": "",
-  "collected_at": "",
+  "url": "https://chigasakimaru.com/",
+  "type": "乗合",
+  "catches": [
+   {
+    "fish": "アジ",
+    "size": "",
+    "count": "トップ73匹",
+    "note": "終日アタリ良くポツポツ",
+    "date": ""
+   }
+  ],
+  "prices": [
+   {
+    "label": "乗合",
+    "yen": 10000,
+    "note": "〜。貸切110,000円〜"
+   }
+  ],
+  "status": "一部",
+  "source": "公式サイト",
+  "collected_at": "2026-07-05",
   "error_count": 0
  },
  {
@@ -1636,13 +1785,27 @@
   "city": "茅ヶ崎市",
   "port": "茅ヶ崎",
   "name": "まごうの丸",
-  "url": "",
-  "type": "不明",
-  "catches": [],
-  "prices": [],
-  "status": "未収集",
-  "source": "",
-  "collected_at": "",
+  "url": "https://www.magounomaru.net/",
+  "type": "乗合",
+  "catches": [
+   {
+    "fish": "アジ",
+    "size": "20〜38cm",
+    "count": "15〜42匹",
+    "note": "ビシアジ船。貸竿客も好釣果",
+    "date": ""
+   }
+  ],
+  "prices": [
+   {
+    "label": "シロギス船",
+    "yen": 8500,
+    "note": "エサ別・氷1個付。女性・高校生・子供6,000円"
+   }
+  ],
+  "status": "済",
+  "source": "公式サイト",
+  "collected_at": "2026-07-05",
   "error_count": 0
  },
  {
@@ -1651,13 +1814,21 @@
   "city": "茅ヶ崎市",
   "port": "茅ヶ崎",
   "name": "沖右ヱ門丸",
-  "url": "",
-  "type": "不明",
-  "catches": [],
+  "url": "https://www.okiemonmaru.com/",
+  "type": "乗合",
+  "catches": [
+   {
+    "fish": "キハダ",
+    "size": "",
+    "count": "",
+    "note": "キハダ（カツオ混じり）・アオリイカ・ビシアジ・タイ・ワラサ。LT船はイナダ・ショゴも。数値釣果は未取得",
+    "date": ""
+   }
+  ],
   "prices": [],
-  "status": "未収集",
-  "source": "",
-  "collected_at": "",
+  "status": "一部",
+  "source": "公式サイト",
+  "collected_at": "2026-07-05",
   "error_count": 0
  },
  {
@@ -1666,13 +1837,32 @@
   "city": "平塚市",
   "port": "平塚",
   "name": "庄三郎丸",
-  "url": "",
-  "type": "不明",
-  "catches": [],
-  "prices": [],
-  "status": "未収集",
-  "source": "",
-  "collected_at": "",
+  "url": "https://www.shouzaburo.com/",
+  "type": "乗合",
+  "catches": [
+   {
+    "fish": "アジ",
+    "size": "26〜40cm",
+    "count": "14〜32匹",
+    "note": "ハナダイ・マダイ・イトヨリ・大サバ混じり",
+    "date": ""
+   }
+  ],
+  "prices": [
+   {
+    "label": "ライト五目船",
+    "yen": 12000,
+    "note": "6:30出船・アミコマセ付"
+   },
+   {
+    "label": "ヒラメ・カサゴ五目船",
+    "yen": 11000,
+    "note": "6:30出船"
+   }
+  ],
+  "status": "済",
+  "source": "公式サイト",
+  "collected_at": "2026-07-05",
   "error_count": 0
  },
  {
@@ -1681,13 +1871,27 @@
   "city": "平塚市",
   "port": "平塚",
   "name": "庄治郎丸",
-  "url": "",
-  "type": "不明",
-  "catches": [],
-  "prices": [],
-  "status": "未収集",
-  "source": "",
-  "collected_at": "",
+  "url": "https://shojiromaru.net/",
+  "type": "乗合",
+  "catches": [
+   {
+    "fish": "アジ",
+    "size": "28〜40cm",
+    "count": "15〜58匹",
+    "note": "良型主体で絶好調。マダイ1.2〜1.5kg 0〜1枚・ハナダイ0〜2枚混じり",
+    "date": ""
+   }
+  ],
+  "prices": [
+   {
+    "label": "乗合（成人男性・予約）",
+    "yen": 10500,
+    "note": "予約なし11,000円。大学生・女性・高校生8,000円。平日ペア割2名15,000円"
+   }
+  ],
+  "status": "済",
+  "source": "公式サイト",
+  "collected_at": "2026-07-05",
   "error_count": 0
  },
  {
@@ -1696,13 +1900,27 @@
   "city": "平塚市",
   "port": "平塚",
   "name": "豊漁丸",
-  "url": "",
-  "type": "不明",
-  "catches": [],
-  "prices": [],
-  "status": "未収集",
-  "source": "",
-  "collected_at": "",
+  "url": "http://www.houryomaru.co.jp/",
+  "type": "乗合",
+  "catches": [
+   {
+    "fish": "アジ",
+    "size": "",
+    "count": "",
+    "note": "アジ・クロダイ・ハナダイ・ヒラメ・サバ・シロギス・ホウボウ等。数値釣果は未取得",
+    "date": ""
+   }
+  ],
+  "prices": [
+   {
+    "label": "乗合（釣割価格）",
+    "yen": 7500,
+    "note": "〜"
+   }
+  ],
+  "status": "一部",
+  "source": "釣割",
+  "collected_at": "2026-07-05",
   "error_count": 0
  },
  {
@@ -1712,12 +1930,26 @@
   "port": "平塚",
   "name": "かりゆし丸",
   "url": "https://kariyusimaru.com/",
-  "type": "不明",
-  "catches": [],
-  "prices": [],
-  "status": "未収集",
-  "source": "",
-  "collected_at": "",
+  "type": "乗合",
+  "catches": [
+   {
+    "fish": "（五目）",
+    "size": "",
+    "count": "",
+    "note": "誰もが楽しめる五目釣り中心。釣果はLINE配信。数値釣果は未取得",
+    "date": ""
+   }
+  ],
+  "prices": [
+   {
+    "label": "乗合（釣割価格）",
+    "yen": 4500,
+    "note": "〜"
+   }
+  ],
+  "status": "一部",
+  "source": "公式サイト",
+  "collected_at": "2026-07-05",
   "error_count": 0
  },
  {
@@ -1726,13 +1958,21 @@
   "city": "平塚市",
   "port": "平塚",
   "name": "浅八丸",
-  "url": "",
-  "type": "不明",
-  "catches": [],
+  "url": "https://asa8.net/",
+  "type": "乗合",
+  "catches": [
+   {
+    "fish": "イサキ",
+    "size": "",
+    "count": "",
+    "note": "イサキ等の対象魚で出船中。数値釣果は未取得",
+    "date": ""
+   }
+  ],
   "prices": [],
-  "status": "未収集",
-  "source": "",
-  "collected_at": "",
+  "status": "一部",
+  "source": "公式サイト",
+  "collected_at": "2026-07-05",
   "error_count": 0
  },
  {
@@ -1741,13 +1981,27 @@
   "city": "大磯町",
   "port": "大磯",
   "name": "五平丸",
-  "url": "",
-  "type": "不明",
-  "catches": [],
-  "prices": [],
-  "status": "未収集",
-  "source": "",
-  "collected_at": "",
+  "url": "https://goheimaru.com/",
+  "type": "仕立中心",
+  "catches": [
+   {
+    "fish": "（業態メモ）",
+    "size": "",
+    "count": "",
+    "note": "貸切専門船。日次の乗合釣果は非公開",
+    "date": ""
+   }
+  ],
+  "prices": [
+   {
+    "label": "貸切（1人あたり）",
+    "yen": 8000,
+    "note": "〜。釣割価格10,000円/人〜"
+   }
+  ],
+  "status": "一部",
+  "source": "公式サイト",
+  "collected_at": "2026-07-05",
   "error_count": 0
  },
  {
@@ -1756,13 +2010,32 @@
   "city": "大磯町",
   "port": "大磯",
   "name": "邦丸",
-  "url": "",
-  "type": "不明",
-  "catches": [],
-  "prices": [],
-  "status": "未収集",
-  "source": "",
-  "collected_at": "",
+  "url": "https://kunimaru-oiso.amebaownd.com/",
+  "type": "乗合",
+  "catches": [
+   {
+    "fish": "（ルアー五目）",
+    "size": "",
+    "count": "",
+    "note": "ショートルアー・ショート根魚乗合で出船。数値釣果は未取得",
+    "date": ""
+   }
+  ],
+  "prices": [
+   {
+    "label": "ショートルアー乗合",
+    "yen": 7500,
+    "note": "女性/高校生7,000円・中学生以下6,000円。6:00〜11:00"
+   },
+   {
+    "label": "ショート根魚乗合",
+    "yen": 8000,
+    "note": "付けエサ付。ルアー/女性/高校生7,500円"
+   }
+  ],
+  "status": "一部",
+  "source": "その他",
+  "collected_at": "2026-07-05",
   "error_count": 0
  },
  {
@@ -1771,13 +2044,27 @@
   "city": "大磯町",
   "port": "大磯",
   "name": "とうふや丸",
-  "url": "",
-  "type": "不明",
-  "catches": [],
-  "prices": [],
-  "status": "未収集",
-  "source": "",
-  "collected_at": "",
+  "url": "https://www.scn-net.ne.jp/~tofuya/",
+  "type": "乗合",
+  "catches": [
+   {
+    "fish": "アジ",
+    "size": "",
+    "count": "",
+    "note": "アジ・カンコ・ワラサ・オニカサゴ等。数値釣果は未取得",
+    "date": ""
+   }
+  ],
+  "prices": [
+   {
+    "label": "アジ船",
+    "yen": 9000,
+    "note": "エサ付。女性・子供3,000円引。3名グループ500円引/5名1,000円引"
+   }
+  ],
+  "status": "一部",
+  "source": "公式サイト",
+  "collected_at": "2026-07-05",
   "error_count": 0
  },
  {
@@ -1786,13 +2073,27 @@
   "city": "小田原市",
   "port": "早川",
   "name": "平安丸",
-  "url": "",
-  "type": "不明",
-  "catches": [],
-  "prices": [],
-  "status": "未収集",
-  "source": "",
-  "collected_at": "",
+  "url": "https://heian-maru.com/",
+  "type": "乗合",
+  "catches": [
+   {
+    "fish": "スルメイカ",
+    "size": "",
+    "count": "",
+    "note": "スルメ・キンメ・クロムツ・メダイ中心。アマダイ・ビシアジ・LT五目も。数値釣果は未取得",
+    "date": ""
+   }
+  ],
+  "prices": [
+   {
+    "label": "感謝デー スルメイカ/ビシアジ船",
+    "yen": 8000,
+    "note": "通常料金は要確認"
+   }
+  ],
+  "status": "一部",
+  "source": "公式サイト",
+  "collected_at": "2026-07-05",
   "error_count": 0
  },
  {
@@ -1801,13 +2102,21 @@
   "city": "小田原市",
   "port": "早川",
   "name": "藤八丸",
-  "url": "",
-  "type": "不明",
-  "catches": [],
+  "url": "https://touhachimaru.com/",
+  "type": "仕立中心",
+  "catches": [
+   {
+    "fish": "（業態メモ）",
+    "size": "",
+    "count": "",
+    "note": "船一隻貸切利用が基本。夏キハダ・冬アマダイ等。レンタルあり",
+    "date": ""
+   }
+  ],
   "prices": [],
-  "status": "未収集",
-  "source": "",
-  "collected_at": "",
+  "status": "一部",
+  "source": "公式サイト",
+  "collected_at": "2026-07-05",
   "error_count": 0
  },
  {
@@ -1816,13 +2125,21 @@
   "city": "小田原市",
   "port": "早川",
   "name": "坂口丸",
-  "url": "",
-  "type": "不明",
-  "catches": [],
+  "url": "https://sakaguchimaru.com/",
+  "type": "乗合",
+  "catches": [
+   {
+    "fish": "ムギイカ",
+    "size": "",
+    "count": "",
+    "note": "ムギイカ・ヤリイカ等の実績。キハダ・アマダイ・イナダ・アジ・オニカサゴも。全船予約制。数値釣果は未取得",
+    "date": ""
+   }
+  ],
   "prices": [],
-  "status": "未収集",
-  "source": "",
-  "collected_at": "",
+  "status": "一部",
+  "source": "公式サイト",
+  "collected_at": "2026-07-05",
   "error_count": 0
  },
  {
@@ -1831,13 +2148,21 @@
   "city": "小田原市",
   "port": "小田原",
   "name": "八隆丸",
-  "url": "",
-  "type": "不明",
-  "catches": [],
+  "url": "https://hachitakamaru.com/",
+  "type": "乗合",
+  "catches": [
+   {
+    "fish": "ムギイカ",
+    "size": "",
+    "count": "",
+    "note": "11トン船。乗合・貸切両対応。マダイ・アジサバ・シロギス五目も。数値釣果は未取得",
+    "date": ""
+   }
+  ],
   "prices": [],
-  "status": "未収集",
-  "source": "",
-  "collected_at": "",
+  "status": "一部",
+  "source": "公式サイト",
+  "collected_at": "2026-07-05",
   "error_count": 0
  },
  {
@@ -1846,13 +2171,27 @@
   "city": "真鶴町",
   "port": "真鶴",
   "name": "緑龍丸",
-  "url": "",
-  "type": "不明",
-  "catches": [],
-  "prices": [],
-  "status": "未収集",
-  "source": "",
-  "collected_at": "",
+  "url": "https://ryokuryumaru.jp/",
+  "type": "乗合",
+  "catches": [
+   {
+    "fish": "ベニアコウ",
+    "size": "",
+    "count": "",
+    "note": "1993年開業・深場釣りで定評（ベニアコウ・大型ムツ等）。真鶴岩港。数値釣果は未取得",
+    "date": ""
+   }
+  ],
+  "prices": [
+   {
+    "label": "乗合",
+    "yen": 10000,
+    "note": "仕立50,000円（5人まで・1人増し10,000円、春秋）"
+   }
+  ],
+  "status": "一部",
+  "source": "公式サイト",
+  "collected_at": "2026-07-05",
   "error_count": 0
  },
  {
@@ -2267,6 +2606,141 @@
   "port": "間口",
   "name": "強丸",
   "url": "",
+  "type": "不明",
+  "catches": [],
+  "prices": [],
+  "status": "未収集",
+  "source": "",
+  "collected_at": "",
+  "error_count": 0
+ },
+ {
+  "no": 104,
+  "pref": "神奈川県",
+  "city": "葉山町",
+  "port": "葉山鐙摺",
+  "name": "秀吉丸",
+  "url": "https://www.hidekichimaru.com/",
+  "type": "不明",
+  "catches": [],
+  "prices": [],
+  "status": "未収集",
+  "source": "",
+  "collected_at": "",
+  "error_count": 0
+ },
+ {
+  "no": 105,
+  "pref": "神奈川県",
+  "city": "葉山町",
+  "port": "葉山鐙摺",
+  "name": "長三朗丸",
+  "url": "https://www.chozaburomaru.com/",
+  "type": "不明",
+  "catches": [],
+  "prices": [],
+  "status": "未収集",
+  "source": "",
+  "collected_at": "",
+  "error_count": 0
+ },
+ {
+  "no": 106,
+  "pref": "神奈川県",
+  "city": "鎌倉市",
+  "port": "腰越",
+  "name": "政美丸",
+  "url": "",
+  "type": "不明",
+  "catches": [],
+  "prices": [],
+  "status": "未収集",
+  "source": "",
+  "collected_at": "",
+  "error_count": 0
+ },
+ {
+  "no": 107,
+  "pref": "神奈川県",
+  "city": "藤沢市",
+  "port": "片瀬江ノ島",
+  "name": "ゆうせい丸",
+  "url": "https://yuusei-maru.net/",
+  "type": "不明",
+  "catches": [],
+  "prices": [],
+  "status": "未収集",
+  "source": "",
+  "collected_at": "",
+  "error_count": 0
+ },
+ {
+  "no": 108,
+  "pref": "神奈川県",
+  "city": "小田原市",
+  "port": "小田原",
+  "name": "おおもり丸",
+  "url": "https://www2.hp-ez.com/hp/oomorimaru/",
+  "type": "不明",
+  "catches": [],
+  "prices": [],
+  "status": "未収集",
+  "source": "",
+  "collected_at": "",
+  "error_count": 0
+ },
+ {
+  "no": 109,
+  "pref": "神奈川県",
+  "city": "小田原市",
+  "port": "小田原",
+  "name": "海真丸",
+  "url": "https://www.kaishinmaru.com/",
+  "type": "不明",
+  "catches": [],
+  "prices": [],
+  "status": "未収集",
+  "source": "",
+  "collected_at": "",
+  "error_count": 0
+ },
+ {
+  "no": 110,
+  "pref": "神奈川県",
+  "city": "真鶴町",
+  "port": "真鶴",
+  "name": "第八緑龍丸",
+  "url": "https://ryokuryu2.com/",
+  "type": "不明",
+  "catches": [],
+  "prices": [],
+  "status": "未収集",
+  "source": "",
+  "collected_at": "",
+  "error_count": 0
+ },
+ {
+  "no": 111,
+  "pref": "神奈川県",
+  "city": "真鶴町",
+  "port": "真鶴",
+  "name": "国敏丸",
+  "url": "https://www.kunitoshimaru.mobi/",
+  "type": "不明",
+  "catches": [],
+  "prices": [],
+  "status": "未収集",
+  "source": "",
+  "collected_at": "",
+  "error_count": 0
+ },
+ {
+  "no": 112,
+  "pref": "神奈川県",
+  "city": "真鶴町",
+  "port": "真鶴",
+  "name": "誠いち丸",
+  "url": "https://seiichimaru.com/",
   "type": "不明",
   "catches": [],
   "prices": [],

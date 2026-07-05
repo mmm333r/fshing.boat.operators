@@ -6,12 +6,34 @@
   "port": "川崎",
   "name": "中山丸",
   "url": "https://www.nakayamamaru.com/",
-  "type": "不明",
-  "catches": [],
+  "type": "乗合",
+  "catches": [
+   {
+    "fish": "シロギス",
+    "size": "13〜23cm",
+    "count": "20〜76匹",
+    "note": "",
+    "date": ""
+   },
+   {
+    "fish": "アナゴ",
+    "size": "28〜48cm",
+    "count": "2〜26本",
+    "note": "",
+    "date": ""
+   },
+   {
+    "fish": "LTアジ",
+    "size": "18〜28cm",
+    "count": "8〜89匹",
+    "note": "ショート便",
+    "date": ""
+   }
+  ],
   "prices": [],
-  "status": "未収集",
-  "source": "",
-  "collected_at": "",
+  "status": "済",
+  "source": "釣りビジョン",
+  "collected_at": "2026-07-05",
   "error_count": 0
  },
  {
@@ -20,13 +42,44 @@
   "city": "川崎市",
   "port": "川崎",
   "name": "つり幸",
-  "url": "",
-  "type": "不明",
-  "catches": [],
-  "prices": [],
-  "status": "未収集",
-  "source": "",
-  "collected_at": "",
+  "url": "https://www.tsurikou.com/",
+  "type": "乗合",
+  "catches": [
+   {
+    "fish": "タチウオ",
+    "size": "70〜119cm",
+    "count": "11〜37本",
+    "note": "テンビン仕掛け",
+    "date": ""
+   },
+   {
+    "fish": "シロギス",
+    "size": "12〜23cm",
+    "count": "28〜50匹",
+    "note": "",
+    "date": ""
+   }
+  ],
+  "prices": [
+   {
+    "label": "タチウオ船",
+    "yen": 11000,
+    "note": "女性9,000円・中学生以下8,000円、エサ・氷付"
+   },
+   {
+    "label": "午前シロギス船",
+    "yen": 6500,
+    "note": "女性5,000円、エサ・氷付"
+   },
+   {
+    "label": "午前/午後LTアジ船",
+    "yen": 6500,
+    "note": "女性5,000円、エサ・氷付"
+   }
+  ],
+  "status": "済",
+  "source": "公式サイト",
+  "collected_at": "2026-07-05",
   "error_count": 0
  },
  {
@@ -35,13 +88,21 @@
   "city": "川崎市",
   "port": "川崎",
   "name": "長八",
-  "url": "",
-  "type": "不明",
-  "catches": [],
+  "url": "https://www.chohachi.co.jp/",
+  "type": "仕立中心",
+  "catches": [
+   {
+    "fish": "（業態メモ）",
+    "size": "",
+    "count": "",
+    "note": "仕立船・屋形船専門。日次の乗合釣果は非公開。シロギス・アナゴ・ハゼ等の仕立てに対応",
+    "date": ""
+   }
+  ],
   "prices": [],
-  "status": "未収集",
-  "source": "",
-  "collected_at": "",
+  "status": "一部",
+  "source": "公式サイト",
+  "collected_at": "2026-07-05",
   "error_count": 0
  },
  {
@@ -50,13 +111,39 @@
   "city": "横浜市",
   "port": "山下橋",
   "name": "渡辺釣船店",
-  "url": "",
-  "type": "不明",
-  "catches": [],
-  "prices": [],
-  "status": "未収集",
-  "source": "",
-  "collected_at": "",
+  "url": "http://blog.watanabetsuribuneten.com/",
+  "type": "乗合",
+  "catches": [
+   {
+    "fish": "LTアジ",
+    "size": "18〜28cm",
+    "count": "15〜66匹",
+    "note": "午前船・横浜沖20m。午後船は31〜48匹",
+    "date": ""
+   },
+   {
+    "fish": "カサゴ",
+    "size": "14〜26cm",
+    "count": "15〜44匹",
+    "note": "夜カサゴ船・本牧沖10m。7月は土曜出船",
+    "date": ""
+   }
+  ],
+  "prices": [
+   {
+    "label": "LTアジ（午前/午後）",
+    "yen": 6000,
+    "note": "女性5,000円・中学生以下4,000円"
+   },
+   {
+    "label": "LTアジ（通し）",
+    "yen": 9000,
+    "note": "女性7,000円・中学生以下6,000円"
+   }
+  ],
+  "status": "済",
+  "source": "釣りビジョン",
+  "collected_at": "2026-07-05",
   "error_count": 0
  },
  {
@@ -65,43 +152,111 @@
   "city": "横浜市",
   "port": "本牧",
   "name": "長崎屋",
-  "url": "",
-  "type": "不明",
-  "catches": [],
-  "prices": [],
-  "status": "未収集",
-  "source": "",
-  "collected_at": "",
+  "url": "https://www.nagasakimaru.net/",
+  "type": "乗合",
+  "catches": [
+   {
+    "fish": "シロギス",
+    "size": "14〜24cm",
+    "count": "27〜158匹",
+    "note": "トップ195匹・良型中心に好調。外道にホウボウ・アジ",
+    "date": ""
+   },
+   {
+    "fish": "マダコ",
+    "size": "",
+    "count": "",
+    "note": "マダコ船出船中（7/5は2隻・予約締切）",
+    "date": "2026-07-05"
+   }
+  ],
+  "prices": [
+   {
+    "label": "シロギス船",
+    "yen": 8500,
+    "note": "エサ・氷1個付。女性・高校生7,000円・小中学生5,000円"
+   }
+  ],
+  "status": "済",
+  "source": "公式サイト",
+  "collected_at": "2026-07-05",
   "error_count": 0
  },
  {
   "no": 6,
   "pref": "神奈川県",
   "city": "横浜市",
-  "port": "八幡橋",
+  "port": "新山下",
   "name": "打木屋釣船店",
-  "url": "",
-  "type": "不明",
-  "catches": [],
-  "prices": [],
-  "status": "未収集",
-  "source": "",
-  "collected_at": "",
+  "url": "https://www.uchikiya.com/",
+  "type": "乗合",
+  "catches": [
+   {
+    "fish": "シロギス",
+    "size": "14〜23cm",
+    "count": "18〜54匹",
+    "note": "午前船",
+    "date": "2026-02-04"
+   },
+   {
+    "fish": "LTアジ",
+    "size": "",
+    "count": "",
+    "note": "午前・午後LTアジ船が主力（数値釣果は未取得）",
+    "date": ""
+   }
+  ],
+  "prices": [
+   {
+    "label": "LTアジ",
+    "yen": 6300,
+    "note": "大学・高校生5,300円・小中学生4,300円"
+   }
+  ],
+  "status": "済",
+  "source": "釣りビジョン",
+  "collected_at": "2026-07-05",
   "error_count": 0
  },
  {
   "no": 7,
   "pref": "神奈川県",
   "city": "横浜市",
-  "port": "八幡橋",
+  "port": "新山下",
   "name": "広島屋",
-  "url": "",
-  "type": "不明",
-  "catches": [],
-  "prices": [],
-  "status": "未収集",
-  "source": "",
-  "collected_at": "",
+  "url": "https://yokohama-hiroshimaya.com/",
+  "type": "乗合",
+  "catches": [
+   {
+    "fish": "シロギス",
+    "size": "13〜26cm",
+    "count": "13〜115尾",
+    "note": "",
+    "date": ""
+   },
+   {
+    "fish": "LTアジ",
+    "size": "17〜33cm",
+    "count": "10〜55尾",
+    "note": "",
+    "date": ""
+   }
+  ],
+  "prices": [
+   {
+    "label": "シロギス船",
+    "yen": 8500,
+    "note": ""
+   },
+   {
+    "label": "アジ船",
+    "yen": 9000,
+    "note": ""
+   }
+  ],
+  "status": "済",
+  "source": "釣割",
+  "collected_at": "2026-07-05",
   "error_count": 0
  },
  {
@@ -110,13 +265,21 @@
   "city": "横浜市",
   "port": "磯子",
   "name": "磯子根岸丸",
-  "url": "http://negishimaru.com/",
-  "type": "不明",
-  "catches": [],
+  "url": "https://negishimaru.info/",
+  "type": "乗合",
+  "catches": [
+   {
+    "fish": "LTアジ",
+    "size": "",
+    "count": "",
+    "note": "LTアジ・シロギス船を運航中（3〜11月は7:10出船13:30沖上がり）。数値釣果は検索から取得できず",
+    "date": ""
+   }
+  ],
   "prices": [],
-  "status": "未収集",
-  "source": "",
-  "collected_at": "",
+  "status": "一部",
+  "source": "つりー",
+  "collected_at": "2026-07-05",
   "error_count": 0
  },
  {
@@ -126,12 +289,26 @@
   "port": "根岸",
   "name": "第2鴨下丸",
   "url": "https://dai2kamoshitamaru.jimdofree.com/",
-  "type": "不明",
-  "catches": [],
-  "prices": [],
-  "status": "未収集",
-  "source": "",
-  "collected_at": "",
+  "type": "乗合",
+  "catches": [
+   {
+    "fish": "LTアジ",
+    "size": "",
+    "count": "〜81匹",
+    "note": "約4時間でトップ81匹・平均50匹前後の実績。半日船（午前/午後）",
+    "date": ""
+   }
+  ],
+  "prices": [
+   {
+    "label": "LTアジ半日船",
+    "yen": 6000,
+    "note": "エサ・氷付。女性・中学生以下割引あり。JR根岸駅送迎あり"
+   }
+  ],
+  "status": "一部",
+  "source": "公式サイト",
+  "collected_at": "2026-07-05",
   "error_count": 0
  },
  {
@@ -147,7 +324,7 @@
   "status": "未収集",
   "source": "",
   "collected_at": "",
-  "error_count": 0
+  "error_count": 1
  },
  {
   "no": 11,
@@ -156,12 +333,34 @@
   "port": "金沢八景",
   "name": "忠彦丸",
   "url": "https://tadahikomaru.com/",
-  "type": "不明",
-  "catches": [],
+  "type": "乗合",
+  "catches": [
+   {
+    "fish": "LTアジ",
+    "size": "17〜28cm",
+    "count": "15〜68匹",
+    "note": "午前船。午後船は15〜65匹",
+    "date": ""
+   },
+   {
+    "fish": "タチウオ",
+    "size": "70〜95cm",
+    "count": "11〜46本",
+    "note": "ショートテンビンタチウオ船",
+    "date": ""
+   },
+   {
+    "fish": "シロギス",
+    "size": "14〜24cm",
+    "count": "4〜21匹",
+    "note": "午前船",
+    "date": ""
+   }
+  ],
   "prices": [],
-  "status": "未収集",
-  "source": "",
-  "collected_at": "",
+  "status": "済",
+  "source": "釣りビジョン",
+  "collected_at": "2026-07-05",
   "error_count": 0
  },
  {
@@ -171,12 +370,27 @@
   "port": "金沢八景",
   "name": "一之瀬丸",
   "url": "https://www.ichinosemaru.net/",
-  "type": "不明",
-  "catches": [],
+  "type": "乗合",
+  "catches": [
+   {
+    "fish": "マダコ",
+    "size": "",
+    "count": "トップ7杯",
+    "note": "良型でポチポチ",
+    "date": "2026-06-09"
+   },
+   {
+    "fish": "タチウオ",
+    "size": "",
+    "count": "",
+    "note": "テンヤタチウオ好調・良型混じり",
+    "date": "2026-06-09"
+   }
+  ],
   "prices": [],
-  "status": "未収集",
-  "source": "",
-  "collected_at": "",
+  "status": "一部",
+  "source": "釣割",
+  "collected_at": "2026-07-05",
   "error_count": 0
  },
  {
@@ -186,12 +400,36 @@
   "port": "金沢八景",
   "name": "太田屋",
   "url": "https://ootaya1310.com/",
-  "type": "不明",
-  "catches": [],
-  "prices": [],
-  "status": "未収集",
-  "source": "",
-  "collected_at": "",
+  "type": "乗合",
+  "catches": [
+   {
+    "fish": "アジ",
+    "size": "",
+    "count": "",
+    "note": "年間主力はアジ・タチウオ・マダイ。船4隻で釣り物別に出船（数値釣果は未取得）",
+    "date": ""
+   }
+  ],
+  "prices": [
+   {
+    "label": "LTアジ",
+    "yen": 6500,
+    "note": ""
+   },
+   {
+    "label": "ルアー船",
+    "yen": 9500,
+    "note": ""
+   },
+   {
+    "label": "マダイ",
+    "yen": 11000,
+    "note": ""
+   }
+  ],
+  "status": "一部",
+  "source": "公式サイト",
+  "collected_at": "2026-07-05",
   "error_count": 0
  },
  {
@@ -201,12 +439,27 @@
   "port": "金沢八景",
   "name": "蒲谷丸",
   "url": "https://kabayamaru.com/",
-  "type": "不明",
-  "catches": [],
+  "type": "乗合",
+  "catches": [
+   {
+    "fish": "アジ",
+    "size": "",
+    "count": "8〜32匹",
+    "note": "金沢八景沖LTアジ好釣果連発",
+    "date": ""
+   },
+   {
+    "fish": "シロギス",
+    "size": "",
+    "count": "2〜8匹",
+    "note": "",
+    "date": ""
+   }
+  ],
   "prices": [],
-  "status": "未収集",
-  "source": "",
-  "collected_at": "",
+  "status": "一部",
+  "source": "公式サイト",
+  "collected_at": "2026-07-05",
   "error_count": 0
  },
  {
@@ -215,13 +468,39 @@
   "city": "横浜市",
   "port": "金沢八景",
   "name": "野毛屋",
-  "url": "",
-  "type": "不明",
-  "catches": [],
-  "prices": [],
-  "status": "未収集",
-  "source": "",
-  "collected_at": "",
+  "url": "https://www.nogeya.com/",
+  "type": "乗合",
+  "catches": [
+   {
+    "fish": "ショウサイフグ",
+    "size": "20〜42cm",
+    "count": "1〜13匹",
+    "note": "トラフグ混じり・10匹台5名。湾フグ専門乗合で有名",
+    "date": ""
+   },
+   {
+    "fish": "アジ",
+    "size": "20〜28cm",
+    "count": "15〜57匹",
+    "note": "",
+    "date": ""
+   }
+  ],
+  "prices": [
+   {
+    "label": "フグ船",
+    "yen": 11000,
+    "note": "女性/高校生10,500円・中学生以下6,500円。赤エビ餌10尾付"
+   },
+   {
+    "label": "午前LTアジ船",
+    "yen": 6500,
+    "note": "女性/高校生6,000円・中学生以下3,500円。餌付"
+   }
+  ],
+  "status": "済",
+  "source": "釣りビジョン",
+  "collected_at": "2026-07-05",
   "error_count": 0
  },
  {
@@ -230,13 +509,39 @@
   "city": "横浜市",
   "port": "金沢八景",
   "name": "鴨下丸",
-  "url": "",
-  "type": "不明",
-  "catches": [],
-  "prices": [],
-  "status": "未収集",
-  "source": "",
-  "collected_at": "",
+  "url": "https://www.kamoshitamaru.com/",
+  "type": "乗合",
+  "catches": [
+   {
+    "fish": "タチウオ",
+    "size": "70〜112cm",
+    "count": "1〜21本",
+    "note": "",
+    "date": ""
+   },
+   {
+    "fish": "アジ",
+    "size": "18〜35cm",
+    "count": "25〜87匹",
+    "note": "",
+    "date": ""
+   }
+  ],
+  "prices": [
+   {
+    "label": "ショートタチウオ船",
+    "yen": 9500,
+    "note": "女性/高校生6,500円・大学生8,000円。餌付"
+   },
+   {
+    "label": "ショートLTアジ船",
+    "yen": 9000,
+    "note": "女性/高校生6,000円・大学生7,500円。餌付"
+   }
+  ],
+  "status": "済",
+  "source": "釣りビジョン",
+  "collected_at": "2026-07-05",
   "error_count": 0
  },
  {
@@ -245,13 +550,21 @@
   "city": "横浜市",
   "port": "金沢八景",
   "name": "弁天屋",
-  "url": "",
-  "type": "不明",
-  "catches": [],
+  "url": "https://bentenya.com/",
+  "type": "乗合",
+  "catches": [
+   {
+    "fish": "アジ",
+    "size": "",
+    "count": "",
+    "note": "1937年創業。周年の午前午後LTアジ＋季節のタチウオ・マダイ・マゴチ・カワハギ・メバル。全日マゴチ/全日アジ/午前シロギス等で出船中（数値釣果は未取得）",
+    "date": ""
+   }
+  ],
   "prices": [],
-  "status": "未収集",
-  "source": "",
-  "collected_at": "",
+  "status": "一部",
+  "source": "公式サイト",
+  "collected_at": "2026-07-05",
   "error_count": 0
  },
  {
@@ -260,13 +573,32 @@
   "city": "横浜市",
   "port": "小柴",
   "name": "三喜丸",
-  "url": "",
-  "type": "不明",
-  "catches": [],
-  "prices": [],
-  "status": "未収集",
-  "source": "",
-  "collected_at": "",
+  "url": "https://www.miki-maru.net/",
+  "type": "乗合",
+  "catches": [
+   {
+    "fish": "LTアジ",
+    "size": "",
+    "count": "",
+    "note": "LTアジ・タチウオ・マダイ中心。2026年6月はスポットイサキ五目・マダコ船も出船",
+    "date": ""
+   }
+  ],
+  "prices": [
+   {
+    "label": "LTアジ船",
+    "yen": 9000,
+    "note": "女性/18歳以下6,000円"
+   },
+   {
+    "label": "タチウオ船",
+    "yen": 11000,
+    "note": "女性/18歳以下9,000円"
+   }
+  ],
+  "status": "一部",
+  "source": "公式サイト",
+  "collected_at": "2026-07-05",
   "error_count": 0
  },
  {
@@ -275,13 +607,32 @@
   "city": "横須賀市",
   "port": "新安浦",
   "name": "長谷川丸",
-  "url": "",
-  "type": "不明",
-  "catches": [],
-  "prices": [],
-  "status": "未収集",
-  "source": "",
-  "collected_at": "",
+  "url": "https://hasegawamaru.blue.coocan.jp/",
+  "type": "乗合",
+  "catches": [
+   {
+    "fish": "アジ",
+    "size": "",
+    "count": "",
+    "note": "ショートアジ・ショートタチウオ・ショートイシモチ・日中タイラバで出船（7:20発）。ポイント近く初心者向き。数値釣果は未取得",
+    "date": ""
+   }
+  ],
+  "prices": [
+   {
+    "label": "ショートアジ/タチウオ/イシモチ船",
+    "yen": 7500,
+    "note": "割引券可。7:20出船13:00沖上がり"
+   },
+   {
+    "label": "日中タイラバ船",
+    "yen": 9000,
+    "note": "割引券可"
+   }
+  ],
+  "status": "一部",
+  "source": "公式サイト",
+  "collected_at": "2026-07-05",
   "error_count": 0
  },
  {
@@ -290,13 +641,21 @@
   "city": "横須賀市",
   "port": "新安浦",
   "name": "村上釣舟店",
-  "url": "",
-  "type": "不明",
-  "catches": [],
+  "url": "https://www.chiyokichimaru.com/",
+  "type": "乗合",
+  "catches": [
+   {
+    "fish": "アジ",
+    "size": "",
+    "count": "",
+    "note": "周年・午前/午後アジ船。ビギナー・ファミリー向き大型船。数値釣果は未取得",
+    "date": ""
+   }
+  ],
   "prices": [],
-  "status": "未収集",
-  "source": "",
-  "collected_at": "",
+  "status": "一部",
+  "source": "公式サイト",
+  "collected_at": "2026-07-05",
   "error_count": 0
  },
  {
@@ -1116,6 +1475,111 @@
   "port": "真鶴",
   "name": "緑龍丸",
   "url": "",
+  "type": "不明",
+  "catches": [],
+  "prices": [],
+  "status": "未収集",
+  "source": "",
+  "collected_at": "",
+  "error_count": 0
+ },
+ {
+  "no": 76,
+  "pref": "神奈川県",
+  "city": "横浜市",
+  "port": "八幡橋",
+  "name": "濱生丸",
+  "url": "",
+  "type": "不明",
+  "catches": [],
+  "prices": [],
+  "status": "未収集",
+  "source": "",
+  "collected_at": "",
+  "error_count": 0
+ },
+ {
+  "no": 77,
+  "pref": "神奈川県",
+  "city": "横浜市",
+  "port": "八幡橋",
+  "name": "鴨下丸kawana",
+  "url": "",
+  "type": "不明",
+  "catches": [],
+  "prices": [],
+  "status": "未収集",
+  "source": "",
+  "collected_at": "",
+  "error_count": 0
+ },
+ {
+  "no": 78,
+  "pref": "神奈川県",
+  "city": "横浜市",
+  "port": "根岸",
+  "name": "第三鴨下丸",
+  "url": "https://3kamoshitamaru.jimdofree.com/",
+  "type": "不明",
+  "catches": [],
+  "prices": [],
+  "status": "未収集",
+  "source": "",
+  "collected_at": "",
+  "error_count": 0
+ },
+ {
+  "no": 79,
+  "pref": "神奈川県",
+  "city": "横浜市",
+  "port": "金沢漁港",
+  "name": "仁丸",
+  "url": "https://dai1hitoshi.com/",
+  "type": "不明",
+  "catches": [],
+  "prices": [],
+  "status": "未収集",
+  "source": "",
+  "collected_at": "",
+  "error_count": 0
+ },
+ {
+  "no": 80,
+  "pref": "神奈川県",
+  "city": "横浜市",
+  "port": "金沢八景",
+  "name": "荒川屋",
+  "url": "https://www.arakawaya.jp/",
+  "type": "不明",
+  "catches": [],
+  "prices": [],
+  "status": "未収集",
+  "source": "",
+  "collected_at": "",
+  "error_count": 0
+ },
+ {
+  "no": 81,
+  "pref": "神奈川県",
+  "city": "横浜市",
+  "port": "新山下",
+  "name": "横浜黒川本家",
+  "url": "https://kurokawahonke.com/",
+  "type": "不明",
+  "catches": [],
+  "prices": [],
+  "status": "未収集",
+  "source": "",
+  "collected_at": "",
+  "error_count": 0
+ },
+ {
+  "no": 82,
+  "pref": "神奈川県",
+  "city": "横浜市",
+  "port": "小柴",
+  "name": "小柴丸",
+  "url": "http://koshibamaru.yokohama/",
   "type": "不明",
   "catches": [],
   "prices": [],
